@@ -1,0 +1,25 @@
+_repo: The-Tinguian--Social-Religious-and-Economic-Life-of-a-Philippine-Tribe_12849
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Cole, Fay-Cooper
+    birthdate: 1881
+    deathdate: 1961
+    gutenberg_agent_id: '4415'
+    url: http://www.gutenberg.org/2009/agents/4415
+    wikipedia: http://www.mnsu.edu/emuseum/information/biography/abcde/cole_fay-cooper.html
+description: ''
+gutenberg_issued: '2004-07-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12849'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Tinguian (Philippine people)'
+- !lcc 'GN'
+- GITenberg
+title: 'The Tinguian: Social, Religious, and Economic Life of a Philippine Tribe'
+url: http://www.gutenberg.org/ebooks/12849
